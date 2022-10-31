@@ -1,4 +1,4 @@
-﻿# Hi there :wave
+﻿# Hi there :wave:
 
 **I'm Prasanna Kumar Shetty, and I'm from India.**
 
