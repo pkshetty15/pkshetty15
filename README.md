@@ -34,6 +34,7 @@
 ### *Development Tools:*
 
 ![VS code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&link=https%3A%2F%2Fcode.visualstudio.com%2F)
+![Static Badge](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&link=https%3A%2F%2Fwww.eclipse.org%2F)
 
 ---
 
