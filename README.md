@@ -1,27 +1,43 @@
-﻿# Hi there :wave:
+﻿# **Hi there :wave:**
 
 **I'm Prasanna Kumar Shetty, and I'm from India.**
 
-- I am studying for a B.Tech degree in Computer Science.👨‍🎓
-- Interested to learn everything in Computer Science.😃
-- Currently jumping from one topic to another without completing it.😅
-
----
-## Skills and Experience
-
-  [<img align="left" width = "50" alt="python" style="padding-right:10px;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >](https://www.python.org/)
-[<img align="left" width = "50" alt="Java" style="padding-right:10px;" src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">](https://www.java.com/)
-[<img align="left" width = "50" alt="c programming" style="padding-right:10px;" src ="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" width = "50" alt="c programming" style="padding-right:10px;" src ="img/html.png">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" width = "50" alt="c programming" src ="img/CSS3_logo.png">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-<br/>
-<br/>
+- 👨‍🎓 I am studying for a *B.Tech* degree in *Computer Science*.
+- 👨‍💻 I'm very curious to learn about all aspects of *Computer Science*.
+- 🔭 Currently learning and working on *Spring Boot* and *JUnit*.
 
 ---
 
-## Tools
+## **Skills and Experience**
 
-[<img align="left" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="30" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:20px;" />](http://github.com/)
-[<img align="left" alt="Visual Studio Code" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />](https://code.visualstudio.com/)
+### *Programming Languages:*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https%3A%2F%2Fwww.java.com%2F)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC_(programming_language))
+
+### *Web Technologies:*
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML)
+![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS)
+
+### *Frameworks:*
+
+![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot)
+![JUnit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F)
+
+### *Version Control:*
+
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com%2F)
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=http%3A%2F%2Fgithub.com%2F)
+
+### *Development Tools:*
+
+![VS code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&link=https%3A%2F%2Fcode.visualstudio.com%2F)
+
+---
+
+## **Connect with me**
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprasanna-kumar-shetty-93b82724a%2F)
+![Static Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2F_pkshetty)
