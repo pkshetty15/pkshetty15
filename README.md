@@ -41,3 +41,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprasanna-kumar-shetty-93b82724a%2F)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2F_pkshetty)
+
+---
+
+![profile-views](https://komarev.com/ghpvc/?username=pkshetty15&style=for-the-badge)
