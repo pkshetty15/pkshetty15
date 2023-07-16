@@ -1,4 +1,4 @@
-﻿# **Hi there :wave:**
+﻿# **Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width ="35">&nbsp;**
 
 **I'm Prasanna Kumar Shetty, and I'm from India.**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## **Skills and Experience**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25">&nbsp;**Skills and Experience**
 
 ### *Programming Languages:*
 
@@ -43,7 +43,7 @@
 
 ---
 
-## **Connect with me**
+## <img src="https://media.giphy.com/media/O5XAbmuuu9YfZyUerJ/giphy.gif" width ="25">&nbsp;**Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-shetty-93b82724a)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_pkshetty)
