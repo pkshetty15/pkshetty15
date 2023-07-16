@@ -12,27 +12,32 @@
 
 ### *Programming Languages:*
 
+&emsp;&emsp;&emsp;&emsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https%3A%2F%2Fwww.java.com%2F)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC_(programming_language))
 
 ### *Web Technologies:*
 
+&emsp;&emsp;&emsp;&emsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML)
 ![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS)
 
 ### *Frameworks:*
 
+&emsp;&emsp;&emsp;&emsp;
 ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot)
 ![JUnit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F)
 
 ### *Version Control:*
 
+&emsp;&emsp;&emsp;&emsp;
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com%2F)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=http%3A%2F%2Fgithub.com%2F)
 
 ### *Development Tools:*
 
+&emsp;&emsp;&emsp;&emsp;
 ![VS code](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&link=https%3A%2F%2Fcode.visualstudio.com%2F)
 ![Static Badge](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&link=https%3A%2F%2Fwww.eclipse.org%2F)
 
