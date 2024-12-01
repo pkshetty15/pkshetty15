@@ -2,7 +2,7 @@
 
 **I'm Prasanna Kumar Shetty, and I'm from India.**
 
-- 👨‍🎓 I’m a final-year B.Tech student majoring in _Computer Science_.
+- 👨‍🎓 I'm a graduate with a Bachelor's degree in _Computer Science_.
 - 👨‍💻 I'm very curious to learn new technologies in _Computer Science_.
 - 🔭 Currently learning and working on _Flask_ application.
 
